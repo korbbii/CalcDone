@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/user/Documents/NetBeansProjects/Korby/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/user/Documents/NetBeansProjects/Korby/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Korby 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Korby 1.0-SNAPSHOT API'
+com.mycompany.korby
+Korbyy
+C:\Users\user\Documents\NetBeansProjects\Korby\src\main\java = 1699834811004
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\allclasses-index.html = 1699834981430
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\allpackages-index.html = 1699834981435
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\element-list = 1699834981256
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\help-doc.html = 1699834981480
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\index-all.html = 1699834981464
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\index.html = 1699834981400
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\jquery-ui.overrides.css = 1699834981522
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\member-search-index.js = 1699834981446
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\module-search-index.js = 1699834981438
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\overview-summary.html = 1699834981464
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\overview-tree.html = 1699834981388
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\package-search-index.js = 1699834981440
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\script.js = 1699834981480
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\search.js = 1699834981480
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\serialized-form.html = 1699834981344
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\stylesheet.css = 1699834981480
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\tag-search-index.js = 1699834981449
+C:\Users\user\Documents\NetBeansProjects\Korby\target\site\apidocs\type-search-index.js = 1699834981443
